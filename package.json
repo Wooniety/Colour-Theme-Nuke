@@ -2,7 +2,11 @@
     "name": "Colour-Theme-Nuke",
     "displayName": "Donut Lord Nuke",
     "description": "You are now the Donut Lord.",
-    "publisher": "Wooniety"
+    "publisher": "Wooniety",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Wooniety/Colour-Theme-Nuke.git"
+    },
     "version": "0.0.1",
     "keywords": [
         "VSCode",
