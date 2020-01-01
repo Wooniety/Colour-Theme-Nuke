@@ -1,0 +1,27 @@
+{
+    "name": "Colour-Theme-Nuke",
+    "displayName": "Donut Lord Nuke",
+    "description": "You are now the Donut Lord.",
+    "publisher": "Wooniety"
+    "version": "0.0.1",
+    "keywords": [
+        "VSCode",
+        "themes",
+        "black theme"
+    ],
+    "engines": {
+        "vscode": "^1.41.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Donut Lord Nuke",
+                "uiTheme": "vs-dark",
+                "path": "./theme/Donut_Lord_Nuke.json"
+            }
+        ]
+    }
+}
